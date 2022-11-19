@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 =======
-[![Header](https://github.com/artichokeee/artichokeee/blob/main/assets/Frame%20635%20(3).png)](https://artsiomrusau.com/)
-## I'm a QA Engineer and. 
+[![Header](https://github.com/December14/December14/blob/main/assets/Git%20Banner%20Template%20(Community).png)](https://www.linkedin.com/in/pavel-polyakov-qa/)
+## I'm a QA Engineer and Tutor. 
 ## A creator of "Artsiom Rusau QA Life" Youtube channel 
 ## My CV
 [Link to my CV](https://drive.google.com/file/d/1HaeXlUL-Wttj7Vw5niHmE1ggbuYMVVBs/view?usp=sharing/)
@@ -57,7 +57,7 @@ Here are some ideas to get you started:
 - [Postman Collections](https://github.com/artichokeee/postman)
 
 ### Follow Me
-[![Header](https://github.com/December14/December14/blob/main/assets/Git%20Banner%20Template%20(Community).png)](https://www.linkedin.com/in/pavel-polyakov-qa/)
+[![Header](https://img.shields.io/badge/Youtube-090909?style=for-the-badge&logo=youtube&logoColor=f70000)](https://www.youtube.com/ArtsiomRusauQALife?sub_confirmation=1)
 [![Header](https://img.shields.io/badge/Instagram-090909?style=for-the-badge&logo=instagram&logoColor=9939a3)](https://www.instagram.com/rusau.qalife/)
 [![Header](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram&logoColor=31a5db)](https://t.me/qachanell)
 [![Header](https://img.shields.io/badge/Twitter-090909?style=for-the-badge&logo=twitter&logoColor=1c96e8)](https://twitter.com/rusau_qa)
