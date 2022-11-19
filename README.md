@@ -12,9 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-=======
+
 [![Header](https://github.com/December14/December14/blob/main/assets/Git%20Banner%20Template%20(Community).png)](https://www.linkedin.com/in/pavel-polyakov-qa/)
-## I'm a QA Engineer. 
+## I'm a QA Engineer
 <!--## A creator of "Artsiom Rusau QA Life" Youtube channel 
 ## My CV
 [Link to my CV](https://drive.google.com/file/d/1HaeXlUL-Wttj7Vw5niHmE1ggbuYMVVBs/view?usp=sharing/)
@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 - [SQL Queries](https://github.com/artichokeee/SQL)
 - [Postman Collections](https://github.com/artichokeee/postman)
 
-### Find Me
+### Find Me here
 
 [![Header](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram&logoColor=31a5db)](https://t.me/pablo7074)
 [![Header](https://img.shields.io/badge/Linkedin-090909?style=for-the-badge&logo=linkedin&logoColor=0073b1)](https://www.linkedin.com/in/pavel-polyakov-qa/)
