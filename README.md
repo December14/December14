@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 ![Header](https://img.shields.io/badge/Qase-090909?style=for-the-badge&logo=qase&logoColor=0074d0)
 ![Header](https://img.shields.io/badge/YouTrack-090909?style=for-the-badge&logo=youtrack&logoColor=4aa73c)
 
-### Testing Documentation
+### Testing Artefacts
 
 - [Checklists](https://github.com/artichokeee/checklist)
 - [Test-Suites and Test-Cases](https://github.com/artichokeee/test-cases)
