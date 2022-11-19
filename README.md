@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-### Hi there 👋
-
 <!--
 **December14/December14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -25,7 +22,7 @@ Here are some ideas to get you started:
 
 
 ### Language and Tools
-![Header](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira&logoColor=136be1)
+![Header](https://img.shields.io/badge/Charles-090909?style=for-the-badge&logo=Charles&logoColor=136be1)
 ![Header](https://img.shields.io/badge/Postman-090909?style=for-the-badge&logo=postman&logoColor=f76935)
 ![Header](https://img.shields.io/badge/Swagger-090909?style=for-the-badge&logo=swagger&logoColor=7ede2b)
 ![Header](https://img.shields.io/badge/Github-090909?style=for-the-badge&logo=github&logoColor=8cc4d7)
