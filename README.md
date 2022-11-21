@@ -40,11 +40,14 @@ Here are some ideas to get you started:
 
 ### Testing Artefacts
 
-- [Checklists](https://github.com/artichokeee/checklist)
-- [Test-Suites and Test-Cases](https://github.com/artichokeee/test-cases)
-- [Bug-Reports](https://github.com/artichokeee/bug-reports)
-- [SQL Queries](https://github.com/artichokeee/SQL)
-- [Postman Collections](https://github.com/artichokeee/postman)
+- [Theory of Testing](https://github.com/December14/Theory-of-Testing)
+- [Test Design Techniques](https://github.com/December14/Test-Design-Techniques)
+- [Test Documentation](https://github.com/December14/Test-Documentation)
+- [Web App Testing](https://github.com/December14/Web-App-Testing)
+- [Sniffers](https://github.com/December14/Sniffers)
+- [Testing API with Postman](https://github.com/December14/API-Testing-using-Postman)
+- [Database-Testing](https://github.com/December14/Database-Testing)
+- [Mobile-Application-Testing](https://github.com/December14/Mobile-Application-Testing)
 
 ### Find Me here
 
