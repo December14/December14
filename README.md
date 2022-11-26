@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 ![Header](https://img.shields.io/badge/Qase-090909?style=for-the-badge&logo=qase&logoColor=0074d0)
 ![Header](https://img.shields.io/badge/YouTrack-090909?style=for-the-badge&logo=youtrack&logoColor=4aa73c)
 
-### Testing Artefacts
+### Test artifacts
 
 - [Theory of Testing](https://github.com/December14/Theory-of-Testing)
 - [Test Design Techniques](https://github.com/December14/Test-Design-Techniques)
