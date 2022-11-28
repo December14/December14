@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 - [Sniffers](https://github.com/December14/Sniffers)
 - [Testing API with Postman](https://github.com/December14/API-Testing-using-Postman)
 - [Database-Testing](https://github.com/December14/Database-Testing)
-- [Mobile-Application-Testing](https://github.com/December14/Mobile-Application-Testing)
+- [Mobile Application Testing](https://github.com/December14/Mobile-Application-Testing)
 - [Bash](https://github.com/December14/Bash/blob/main/README.md)
 
 ### Find Me here
