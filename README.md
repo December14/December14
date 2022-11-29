@@ -15,10 +15,9 @@ Here are some ideas to get you started:
 
 [![Header](https://github.com/December14/December14/blob/main/assets/Git%20Banner%20Template%20(Community).png)](https://www.linkedin.com/in/pavel-polyakov-qa/)
 ## I'm a QA Engineer
-<!--## A creator of "Artsiom Rusau QA Life" Youtube channel 
-## My CV
-[Link to my CV](https://drive.google.com/file/d/1HaeXlUL-Wttj7Vw5niHmE1ggbuYMVVBs/view?usp=sharing/)
--->
+
+[Link to my CV 👈🏼](https://drive.google.com/file/d/1bM0rYtnL0l0cFrz9BzBS0KPFJmY61w1X/view?usp=sharing)
+--
 
 
 ### Language and Tools
