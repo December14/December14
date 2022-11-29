@@ -30,6 +30,7 @@ Here are some ideas to get you started:
 ![Header](https://img.shields.io/badge/VirtualBox-090909?style=for-the-badge&logo=virtualbox&logoColor=f7f7f7)
 ![Header](https://img.shields.io/badge/MySQL-090909?style=for-the-badge&logo=mysql&logoColor=00618a)
 ![Header](https://img.shields.io/badge/DevTools-090909?style=for-the-badge&logo=googlechrome&logoColor=2674f2)
+![Header](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=Jira&logoColor=2674f2)
 ![Header](https://img.shields.io/badge/AndroidStudio-090909?style=for-the-badge&logo=androidstudio&logoColor=3ad07d)
 ![Header](https://img.shields.io/badge/Xcode-090909?style=for-the-badge&logo=xcode&logoColor=4aa73c)
 ![Header](https://img.shields.io/badge/VisualStudioCode-090909?style=for-the-badge&logo=visualstudiocode&logoColor=4aa73c)
