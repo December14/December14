@@ -19,7 +19,6 @@ Here are some ideas to get you started:
 [Link to my CV 👈🏼](https://drive.google.com/file/d/1bM0rYtnL0l0cFrz9BzBS0KPFJmY61w1X/view?usp=sharing)
 --
 
-
 ### Language and Tools
 ![Header](https://img.shields.io/badge/Trello-090909?style=for-the-badge&logo=trello&logoColor=136be1)
 ![Header](https://img.shields.io/badge/Postman-090909?style=for-the-badge&logo=postman&logoColor=f76935)
@@ -50,6 +49,11 @@ Here are some ideas to get you started:
 - [Database-Testing](https://github.com/December14/Database-Testing)
 - [Mobile Application Testing](https://github.com/December14/Mobile-Application-Testing)
 - [Bash](https://github.com/December14/Bash/blob/main/README.md)
+
+### Licenses & certifications
+
+[Certificate 👈🏼](https://drive.google.com/file/d/1nBJWrLSRlWbiwGb8pJT7qYT4kMZxdcpR/view?usp=share_link)
+--
 
 ### Find Me here
 
