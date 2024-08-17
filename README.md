@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 [![Header](https://github.com/December14/December14/blob/main/assets/Git%20Banner%20Template%20(Community).png)](https://www.linkedin.com/in/pavel-polyakov-qa/)
 ## I'm a QA Engineer
 
-[Link to my CV 👈🏼]([https://drive.google.com/file/d/1y1dTFPYZ1sk9VM3JzImeGPNQyiAG4nYJ/view?usp=sharing])
+[Link to my CV 👈🏼](https://drive.google.com/file/d/1y1dTFPYZ1sk9VM3JzImeGPNQyiAG4nYJ/view?usp=sharing)
 --
 
 ### Language and Tools
